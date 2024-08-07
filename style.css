@@ -1,12 +1,12 @@
 .box{
-    height = 100px;
-    widith = 100px;
-    background-color = gray;
+    height: 100px;
+    width: 100px;
+    background-color: gray;
 }
 .navbar{
-    height = 60px;
+    height: 60px;
     background-color:darkgray;
 }
 .space{
- height = 500px;
+ height: 100px;
 }
